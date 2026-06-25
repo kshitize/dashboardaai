@@ -24,7 +24,7 @@ const styles = {
     textDecoration: "none",
   },
   logo: {
-    height: "36px",
+    height: "60px",
     width: "auto",
     objectFit: "contain",
     filter: "brightness(0) invert(1)",

@@ -37,3 +37,4 @@ coverage/
 
 # Vite
 vite.svg
+.vercel
