@@ -92,7 +92,7 @@
     },
     {
         "id":14,
-        "name":"vishakapatnam",
+        "name":"vishakapatnam / vizag",
         "image":"./images/vishakapatnam.jpeg",
         "dateofupdation":"23.08.2023",
         "link":"vishakapatnamAirport"
@@ -127,14 +127,14 @@
     },
     {
         "id":19,
-        "name":"trichy",
+        "name":"trichy / tiruchirappalli ",
         "image":"./images/trichy.jpeg",
         "dateofupdation":"23.08.2023",
         "link":"trichyAirport"
     },
     {
         "id":20,
-        "name":"calicut",
+        "name":"calicut / kozhikode",
         "image":"./images/calicut.jpeg",
         "dateofupdation":"23.08.2023",
         "link":"calicutAirport"
@@ -145,5 +145,12 @@
         "image":"./images/madurai.jpeg",
         "dateofupdation":"23.08.2023",
         "link":"maduraiAirport"
+    },
+    {
+        "id":22,
+        "name":"adampur",
+        "image":"./images/adampur.jpg",
+        "dateofupdation":"02.07.2026",
+        "link":"adampurAirport"
     }
 ]

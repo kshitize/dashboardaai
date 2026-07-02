@@ -1,6 +1,7 @@
 import React from 'react';
 import {useEffect} from 'react';
 import Home from './Home';
+import adampurAirport from './AdampurAirport';
 import coimbatoreAirport from './CoimbatoreAirport';
 import chennaiAirport from './ChennaiAirport';
 import bhubaneshwarAirport from './BhubaneshwarAirport';
@@ -43,6 +44,7 @@ function App() {
     <Navbar/>
     <Routes>
       <Route path='/' Component={Home}/>
+      <Route path='/adampurAirport' Component={adampurAirport}/>
       <Route path='/kolkataAirport' Component={kolkataAirport}/>
       <Route path='/puneAirport' Component={puneAirport}/>
       <Route path='/coimbatoreAirport' Component={coimbatoreAirport}/>
