@@ -259,7 +259,7 @@ const AirportCard = ({ val }) => {
       onMouseLeave={() => setHovered(false)}
     >
       {/* image */}
-      <div style={styles.cardImgWrap}>
+      {/* <div style={styles.cardImgWrap}>
         <img
           src={require(`${val.image}`)}
           style={{
@@ -272,7 +272,7 @@ const AirportCard = ({ val }) => {
         <div style={styles.cardImgLabel}>
           {val.name.split(" ")[0].toUpperCase()}
         </div>
-      </div>
+      </div> */}
 
       {/* accent bar */}
       <div style={styles.cardAccent} />
@@ -283,7 +283,7 @@ const AirportCard = ({ val }) => {
 
         <div style={styles.cardFooter}>
           <span style={styles.updatedBadge}>
-            Updated {val.dateofupdation}
+            {/* Updated {val.dateofupdation} */}
           </span>
           <NavLink to={`/${val.link}`} style={styles.arrowBtn}>
             View details
