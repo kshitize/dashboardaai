@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import logo from "../src/images/logo.png";
+import logo from "../src/images/logo.webp";
 
 const styles = {
   nav: {
