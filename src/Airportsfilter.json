@@ -1,763 +1,981 @@
 [
   {
     "id": 1,
-    "name": "adampur",
+    "name": "adampur / AIP / VIAX",
+    "iata": "AIP",
+    "icao": "VIAX",
     "image": "",
     "dateofupdation": "",
     "link": "adampurAirport"
   },
   {
     "id": 2,
-    "name": "agartala",
+    "name": "agartala / IXA / VEAT",
+    "iata": "IXA",
+    "icao": "VEAT",
     "image": "",
     "dateofupdation": "",
     "link": "agartalaAirport"
   },
   {
     "id": 3,
-    "name": "agatti",
+    "name": "agatti / AGX / VOAT",
+    "iata": "AGX",
+    "icao": "VOAT",
     "image": "",
     "dateofupdation": "",
     "link": "agattiAirport"
   },
   {
     "id": 4,
-    "name": "agra",
+    "name": "agra / AGR / VIAG",
+    "iata": "AGR",
+    "icao": "VIAG",
     "image": "",
     "dateofupdation": "",
     "link": "agraAirport"
   },
   {
     "id": 5,
-    "name": "akola",
+    "name": "akola / AKD / VAAK",
+    "iata": "AKD",
+    "icao": "VAAK",
     "image": "",
     "dateofupdation": "",
     "link": "akolaAirport"
   },
   {
     "id": 6,
-    "name": "aligarh",
+    "name": "aligarh / HRH / VIAH",
+    "iata": "HRH",
+    "icao": "VIAH",
     "image": "",
     "dateofupdation": "",
     "link": "aligarhAirport"
   },
   {
     "id": 7,
-    "name": "allahabad / prayagraj",
+    "name": "allahabad / prayagraj / IXD / VEAB",
+    "iata": "IXD",
+    "icao": "VEAB",
     "image": "",
     "dateofupdation": "",
     "link": "prayagrajAirport"
   },
   {
     "id": 8,
-    "name": "amritsar",
+    "name": "amritsar / ATQ / VIAR",
+    "iata": "ATQ",
+    "icao": "VIAR",
     "image": "",
     "dateofupdation": "",
     "link": "amritsarAirport"
   },
   {
     "id": 9,
-    "name": "aurangabad",
+    "name": "aurangabad / IXU / VAAU",
+    "iata": "IXU",
+    "icao": "VAAU",
     "image": "",
     "dateofupdation": "",
     "link": "aurangabadAirport"
   },
   {
     "id": 10,
-    "name": "ayodhya",
+    "name": "ayodhya / AYJ / VEAY",
+    "iata": "AYJ",
+    "icao": "VEAY",
     "image": "",
     "dateofupdation": "",
     "link": "ayodhyaAirport"
   },
   {
     "id": 11,
-    "name": "azamgarh",
+    "name": "azamgarh / AZH / VEAH",
+    "iata": "AZH",
+    "icao": "VEAH",
     "image": "",
     "dateofupdation": "",
     "link": "azamgarhAirport"
   },
   {
     "id": 12,
-    "name": "bagdogra",
+    "name": "bagdogra / IXB / VEBD",
+    "iata": "IXB",
+    "icao": "VEBD",
     "image": "",
     "dateofupdation": "",
     "link": "bagdograAirport"
   },
   {
     "id": 13,
-    "name": "bareilly",
+    "name": "bareilly / BEK / VIBY",
+    "iata": "BEK",
+    "icao": "VIBY",
     "image": "",
     "dateofupdation": "",
     "link": "bareillyAirport"
   },
   {
     "id": 14,
-    "name": "begumpet",
+    "name": "begumpet / BPM / VOHY",
+    "iata": "BPM",
+    "icao": "VOHY",
     "image": "",
     "dateofupdation": "",
     "link": "begumpetAirport"
   },
   {
     "id": 15,
-    "name": "behla",
+    "name": "behla /  / VEBA",
+    "iata": "",
+    "icao": "VEBA",
     "image": "",
     "dateofupdation": "",
     "link": "behlaAirport"
   },
   {
     "id": 16,
-    "name": "belgaum / belgavi",
+    "name": "belgaum / belgavi / IXG / VOBM",
+    "iata": "IXG",
+    "icao": "VOBM",
     "image": "",
     "dateofupdation": "",
     "link": "belgaumAirport"
   },
   {
     "id": 17,
-    "name": "bhatinda",
+    "name": "bhatinda / BUP / VIBT",
+    "iata": "BUP",
+    "icao": "VIBT",
     "image": "",
     "dateofupdation": "",
     "link": "bhatindaAirport"
   },
   {
     "id": 18,
-    "name": "bhavnagar",
+    "name": "bhavnagar / BHU / VABV",
+    "iata": "BHU",
+    "icao": "VABV",
     "image": "",
     "dateofupdation": "",
     "link": "bhavnagarAirport"
   },
   {
     "id": 19,
-    "name": "bhopal",
+    "name": "bhopal / BHO / VABP",
+    "iata": "BHO",
+    "icao": "VABP",
     "image": "",
     "dateofupdation": "",
     "link": "bhopalAirport"
   },
   {
     "id": 20,
-    "name": "bhubaneshwar",
+    "name": "bhubaneshwar / BBI / VEBS",
+    "iata": "BBI",
+    "icao": "VEBS",
     "image": "",
     "dateofupdation": "",
     "link": "bhubaneshwarAirport"
   },
   {
     "id": 21,
-    "name": "bhuj",
+    "name": "bhuj / BHJ / VABJ",
+    "iata": "BHJ",
+    "icao": "VABJ",
     "image": "",
     "dateofupdation": "",
     "link": "bhujAirport"
   },
   {
     "id": 22,
-    "name": "bikaner",
+    "name": "bikaner / BKB / VIBK",
+    "iata": "BKB",
+    "icao": "VIBK",
     "image": "",
     "dateofupdation": "",
     "link": "bikanerAirport"
   },
   {
     "id": 23,
-    "name": "calicut / kozhikode",
+    "name": "calicut / kozhikode / CCJ / VOCL",
+    "iata": "CCJ",
+    "icao": "VOCL",
     "image": "",
     "dateofupdation": "",
     "link": "calicutAirport"
   },
   {
     "id": 24,
-    "name": "chandigarh",
+    "name": "chandigarh / IXC / VICG",
+    "iata": "IXC",
+    "icao": "VICG",
     "image": "",
     "dateofupdation": "",
     "link": "chandigarhAirport"
   },
   {
     "id": 25,
-    "name": "chennai",
+    "name": "chennai / MAA / VOMM",
+    "iata": "MAA",
+    "icao": "VOMM",
     "image": "",
     "dateofupdation": "",
     "link": "chennaiAirport"
   },
   {
     "id": 26,
-    "name": "chitrakoot",
+    "name": "chitrakoot / CWK / VECT",
+    "iata": "CWK",
+    "icao": "VECT",
     "image": "",
     "dateofupdation": "",
     "link": "chitrakootAirport"
   },
   {
     "id": 27,
-    "name": "coimbatore",
+    "name": "coimbatore / CJB / VOCB",
+    "iata": "CJB",
+    "icao": "VOCB",
     "image": "",
     "dateofupdation": "",
     "link": "coimbatoreAirport"
   },
   {
     "id": 28,
-    "name": "coochbehar",
+    "name": "coochbehar / COH / VECO",
+    "iata": "COH",
+    "icao": "VECO",
     "image": "",
     "dateofupdation": "",
     "link": "coochbeharAirport"
   },
   {
     "id": 29,
-    "name": "cuddapah / kadapa",
+    "name": "cuddapah / kadapa / CDP / VOCP",
+    "iata": "CDP",
+    "icao": "VOCP",
     "image": "",
     "dateofupdation": "",
     "link": "cuddapahAirport"
   },
   {
     "id": 30,
-    "name": "dabolim goa",
+    "name": "dabolim goa / GOI / VOGO",
+    "iata": "GOI",
+    "icao": "VOGO",
     "image": "",
     "dateofupdation": "",
     "link": "goaAirport"
   },
   {
     "id": 31,
-    "name": "darbhanga",
+    "name": "darbhanga / DBR / VEDH",
+    "iata": "DBR",
+    "icao": "VEDH",
     "image": "",
     "dateofupdation": "",
     "link": "darbhangaAirport"
   },
   {
     "id": 32,
-    "name": "datia",
+    "name": "datia / DPP / VIDT",
+    "iata": "DPP",
+    "icao": "VIDT",
     "image": "",
     "dateofupdation": "",
     "link": "datiaAirport"
   },
   {
     "id": 33,
-    "name": "dehradun",
+    "name": "dehradun / DED / VIDN",
+    "iata": "DED",
+    "icao": "VIDN",
     "image": "",
     "dateofupdation": "",
     "link": "dehradunAirport"
   },
   {
     "id": 34,
-    "name": "deoghar",
+    "name": "deoghar / DGH / VEDO",
+    "iata": "DGH",
+    "icao": "VEDO",
     "image": "",
     "dateofupdation": "",
     "link": "deogharAirport"
   },
   {
     "id": 35,
-    "name": "dibrugarh",
+    "name": "dibrugarh / DIB / VEMN",
+    "iata": "DIB",
+    "icao": "VEMN",
     "image": "",
     "dateofupdation": "",
     "link": "dibrugarhAirport"
   },
   {
     "id": 36,
-    "name": "dimapur",
+    "name": "dimapur / DMU / VEMR",
+    "iata": "DMU",
+    "icao": "VEMR",
     "image": "",
     "dateofupdation": "",
     "link": "dimapurAirport"
   },
   {
     "id": 37,
-    "name": "diu",
+    "name": "diu / DIU / VADU",
+    "iata": "DIU",
+    "icao": "VADU",
     "image": "",
     "dateofupdation": "",
     "link": "diuAirport"
   },
   {
     "id": 38,
-    "name": "gaya",
+    "name": "gaya / GAY / VEGY",
+    "iata": "GAY",
+    "icao": "VEGY",
     "image": "",
     "dateofupdation": "",
     "link": "gayaAirport"
   },
   {
     "id": 39,
-    "name": "gondia",
+    "name": "gondia / GDB / VAGD",
+    "iata": "GDB",
+    "icao": "VAGD",
     "image": "",
     "dateofupdation": "",
     "link": "gondiaAirport"
   },
   {
     "id": 40,
-    "name": "gorakhpur",
+    "name": "gorakhpur / GOP / VEGK",
+    "iata": "GOP",
+    "icao": "VEGK",
     "image": "",
     "dateofupdation": "",
     "link": "gorakhpurAirport"
   },
   {
     "id": 41,
-    "name": "gulbarga / kalaburgi",
+    "name": "gulbarga / kalaburgi / GBI / VOGB",
+    "iata": "GBI",
+    "icao": "VOGB",
     "image": "",
     "dateofupdation": "",
     "link": "gulbargaAirport"
   },
   {
     "id": 42,
-    "name": "gwalior",
+    "name": "gwalior / GWL / VIGR",
+    "iata": "GWL",
+    "icao": "VIGR",
     "image": "",
     "dateofupdation": "",
     "link": "gwaliorAirport"
   },
   {
     "id": 43,
-    "name": "halwara",
+    "name": "halwara / HWR / VIHX",
+    "iata": "HWR",
+    "icao": "VIHX",
     "image": "",
     "dateofupdation": "",
     "link": "halwaraAirport"
   },
   {
     "id": 44,
-    "name": "hindon",
+    "name": "hindon / HDO / VIDX",
+    "iata": "HDO",
+    "icao": "VIDX",
     "image": "",
     "dateofupdation": "",
     "link": "hindonAirport"
   },
   {
     "id": 45,
-    "name": "hirasar / rajkot",
+    "name": "hirasar / rajkot / HSR / VAHS",
+    "iata": "HSR",
+    "icao": "VAHS",
     "image": "",
     "dateofupdation": "",
     "link": "hirasarAirport"
   },
   {
     "id": 46,
-    "name": "hollongi",
+    "name": "hollongi / HGI / VEHO",
+    "iata": "HGI",
+    "icao": "VEHO",
     "image": "",
     "dateofupdation": "",
     "link": "hollongiAirport"
   },
   {
     "id": 47,
-    "name": "hubli",
+    "name": "hubli / HBX / VOHB",
+    "iata": "HBX",
+    "icao": "VOHB",
     "image": "",
     "dateofupdation": "",
     "link": "hubliAirport"
   },
   {
     "id": 48,
-    "name": "imphal",
+    "name": "imphal / IMF / VEIM",
+    "iata": "IMF",
+    "icao": "VEIM",
     "image": "",
     "dateofupdation": "",
     "link": "imphalAirport"
   },
   {
     "id": 49,
-    "name": "indore",
+    "name": "indore / IDR / VAID",
+    "iata": "IDR",
+    "icao": "VAID",
     "image": "",
     "dateofupdation": "",
     "link": "indoreAirport"
   },
   {
     "id": 50,
-    "name": "jabalpur",
+    "name": "jabalpur / JLR / VAJB",
+    "iata": "JLR",
+    "icao": "VAJB",
     "image": "",
     "dateofupdation": "",
     "link": "jabalpurAirport"
   },
   {
     "id": 51,
-    "name": "jaisalmer",
+    "name": "jaisalmer / JSA / VIJR",
+    "iata": "JSA",
+    "icao": "VIJR",
     "image": "",
     "dateofupdation": "",
     "link": "jaisalmerAirport"
   },
   {
     "id": 52,
-    "name": "jalgaon",
+    "name": "jalgaon / JLG / VAJL",
+    "iata": "JLG",
+    "icao": "VAJL",
     "image": "",
     "dateofupdation": "",
     "link": "jalgaonAirport"
   },
   {
     "id": 53,
-    "name": "jammu",
+    "name": "jammu / IXJ / VIJU",
+    "iata": "IXJ",
+    "icao": "VIJU",
     "image": "",
     "dateofupdation": "",
     "link": "jammuAirport"
   },
   {
     "id": 54,
-    "name": "jamnagar",
+    "name": "jamnagar / JGA / VAJM",
+    "iata": "JGA",
+    "icao": "VAJM",
     "image": "",
     "dateofupdation": "",
     "link": "jamnagarAirport"
   },
   {
     "id": 55,
-    "name": "jharsuguda",
+    "name": "jharsuguda / JRG / VEJH",
+    "iata": "JRG",
+    "icao": "VEJH",
     "image": "",
     "dateofupdation": "",
     "link": "jharsugudaAirport"
   },
   {
     "id": 56,
-    "name": "jodhpur",
+    "name": "jodhpur / JDH / VIJO",
+    "iata": "JDH",
+    "icao": "VIJO",
     "image": "",
     "dateofupdation": "",
     "link": "jodhpurAirport"
   },
   {
     "id": 57,
-    "name": "jorhat",
+    "name": "jorhat / JRH / VEJT",
+    "iata": "JRH",
+    "icao": "VEJT",
     "image": "",
     "dateofupdation": "",
     "link": "jorhatAirport"
   },
   {
     "id": 58,
-    "name": "juhu",
+    "name": "juhu /  / VAJJ",
+    "iata": "",
+    "icao": "VAJJ",
     "image": "",
     "dateofupdation": "",
     "link": "juhuAirport"
   },
   {
     "id": 59,
-    "name": "kandla",
+    "name": "kandla / IXY / VAKE",
+    "iata": "IXY",
+    "icao": "VAKE",
     "image": "",
     "dateofupdation": "",
     "link": "kandlaAirport"
   },
   {
     "id": 60,
-    "name": "kangra / gaggal",
+    "name": "kangra / gaggal / DHM / VIGG",
+    "iata": "DHM",
+    "icao": "VIGG",
     "image": "",
     "dateofupdation": "",
     "link": "kangraAirport"
   },
   {
     "id": 61,
-    "name": "kanpur chakeri",
+    "name": "kanpur chakeri / KNU / VIKA",
+    "iata": "KNU",
+    "icao": "VIKA",
     "image": "",
     "dateofupdation": "",
     "link": "kanpurAirport"
   },
   {
     "id": 62,
-    "name": "keshod",
+    "name": "keshod / IXK / VAKS",
+    "iata": "IXK",
+    "icao": "VAKS",
     "image": "",
     "dateofupdation": "",
     "link": "keshodAirport"
   },
   {
     "id": 63,
-    "name": "khajuraho",
+    "name": "khajuraho / HJR / VAKJ",
+    "iata": "HJR",
+    "icao": "VAKJ",
     "image": "",
     "dateofupdation": "",
     "link": "khajurahoAirport"
   },
   {
     "id": 64,
-    "name": "kishangarh / ajmer",
+    "name": "kishangarh / ajmer / KQH / VIKG",
+    "iata": "KQH",
+    "icao": "VIKG",
     "image": "",
     "dateofupdation": "",
     "link": "kishangarhAirport"
   },
   {
     "id": 65,
-    "name": "kolhapur",
+    "name": "kolhapur / KLH / VAKP",
+    "iata": "KLH",
+    "icao": "VAKP",
     "image": "",
     "dateofupdation": "",
     "link": "kolhapurAirport"
   },
   {
     "id": 66,
-    "name": "kolkata",
+    "name": "kolkata / CCU / VECC",
+    "iata": "CCU",
+    "icao": "VECC",
     "image": "",
     "dateofupdation": "",
     "link": "kolkataAirport"
   },
   {
     "id": 67,
-    "name": "kota",
+    "name": "kota / KTU / VIKO",
+    "iata": "KTU",
+    "icao": "VIKO",
     "image": "",
     "dateofupdation": "",
     "link": "kotaAirport"
   },
   {
     "id": 68,
-    "name": "kullu / bhuntar",
+    "name": "kullu / bhuntar / KUU / VIBR",
+    "iata": "KUU",
+    "icao": "VIBR",
     "image": "",
     "dateofupdation": "",
     "link": "kulluAirport"
   },
   {
     "id": 69,
-    "name": "kushinagar",
+    "name": "kushinagar / KBK / VEKI",
+    "iata": "KBK",
+    "icao": "VEKI",
     "image": "",
     "dateofupdation": "",
     "link": "kushinagarAirport"
   },
   {
     "id": 70,
-    "name": "leh",
+    "name": "leh / IXL / VILH",
+    "iata": "IXL",
+    "icao": "VILH",
     "image": "",
     "dateofupdation": "",
     "link": "lehAirport"
   },
   {
     "id": 71,
-    "name": "lilabari",
+    "name": "lilabari / IXI / VELR",
+    "iata": "IXI",
+    "icao": "VELR",
     "image": "",
     "dateofupdation": "",
     "link": "lilabariAirport"
   },
   {
     "id": 72,
-    "name": "madurai",
+    "name": "madurai / IXM / VOMD",
+    "iata": "IXM",
+    "icao": "VOMD",
     "image": "",
     "dateofupdation": "",
     "link": "maduraiAirport"
   },
   {
     "id": 73,
-    "name": "meerut",
+    "name": "meerut /  / VI2B",
+    "iata": "",
+    "icao": "VI2B",
     "image": "",
     "dateofupdation": "",
     "link": "meerutAirport"
   },
   {
     "id": 74,
-    "name": "moradabad",
+    "name": "moradabad / MZS / VIMB",
+    "iata": "MZS",
+    "icao": "VIMB",
     "image": "",
     "dateofupdation": "",
     "link": "moradabadAirport"
   },
   {
     "id": 75,
-    "name": "mysore",
+    "name": "mysore / MYQ / VOMY",
+    "iata": "MYQ",
+    "icao": "VOMY",
     "image": "",
     "dateofupdation": "",
     "link": "mysoreAirport"
   },
   {
     "id": 76,
-    "name": "pakyong",
+    "name": "pakyong / PYG / VEPY",
+    "iata": "PYG",
+    "icao": "VEPY",
     "image": "",
     "dateofupdation": "",
     "link": "pakyongAirport"
   },
   {
     "id": 77,
-    "name": "pantnagar",
+    "name": "pantnagar / PGH / VIPT",
+    "iata": "PGH",
+    "icao": "VIPT",
     "image": "",
     "dateofupdation": "",
     "link": "pantnagarAirport"
   },
   {
     "id": 78,
-    "name": "pathankot",
+    "name": "pathankot / IXP / VIPK",
+    "iata": "IXP",
+    "icao": "VIPK",
     "image": "",
     "dateofupdation": "",
     "link": "pathankotAirport"
   },
   {
     "id": 79,
-    "name": "patna",
+    "name": "patna / PAT / VEPT",
+    "iata": "PAT",
+    "icao": "VEPT",
     "image": "",
     "dateofupdation": "",
     "link": "patnaAirport"
   },
   {
     "id": 80,
-    "name": "pondicherry",
+    "name": "pondicherry / PNY / VOPC",
+    "iata": "PNY",
+    "icao": "VOPC",
     "image": "",
     "dateofupdation": "",
     "link": "pondicherryAirport"
   },
   {
     "id": 81,
-    "name": "porbandar",
+    "name": "porbandar / PBD / VAPR",
+    "iata": "PBD",
+    "icao": "VAPR",
     "image": "",
     "dateofupdation": "",
     "link": "porbandarAirport"
   },
   {
     "id": 82,
-    "name": "portblair",
+    "name": "portblair / IXZ / VOPB",
+    "iata": "IXZ",
+    "icao": "VOPB",
     "image": "",
     "dateofupdation": "",
     "link": "portblairAirport"
   },
   {
     "id": 83,
-    "name": "pune",
+    "name": "pune / PNQ / VAPO",
+    "iata": "PNQ",
+    "icao": "VAPO",
     "image": "",
     "dateofupdation": "",
     "link": "puneAirport"
   },
   {
     "id": 84,
-    "name": "purnea",
+    "name": "purnea / PXN / VEPU",
+    "iata": "PXN",
+    "icao": "VEPU",
     "image": "",
     "dateofupdation": "",
     "link": "purneaAirport"
   },
   {
     "id": 85,
-    "name": "raipur",
+    "name": "raipur / RPR / VERP",
+    "iata": "RPR",
+    "icao": "VERP",
     "image": "",
     "dateofupdation": "",
     "link": "raipurAirport"
   },
   {
     "id": 86,
-    "name": "rajahmundry",
+    "name": "rajahmundry / RJA / VORY",
+    "iata": "RJA",
+    "icao": "VORY",
     "image": "",
     "dateofupdation": "",
     "link": "rajahmundryAirport"
   },
   {
     "id": 87,
-    "name": "ranchi",
+    "name": "ranchi / IXR / VERC",
+    "iata": "IXR",
+    "icao": "VERC",
     "image": "",
     "dateofupdation": "",
     "link": "ranchiAirport"
   },
   {
     "id": 88,
-    "name": "rewa",
+    "name": "rewa / REW / VA1G",
+    "iata": "REW",
+    "icao": "VA1G",
     "image": "",
     "dateofupdation": "",
     "link": "rewaAirport"
   },
   {
     "id": 89,
-    "name": "rupsi",
+    "name": "rupsi / RUP / VERU",
+    "iata": "RUP",
+    "icao": "VERU",
     "image": "",
     "dateofupdation": "",
     "link": "rupsiAirport"
   },
   {
     "id": 90,
-    "name": "safdarjung",
+    "name": "safdarjung /  / VIDD",
+    "iata": "",
+    "icao": "VIDD",
     "image": "",
     "dateofupdation": "",
     "link": "safdarjungAirport"
   },
   {
     "id": 91,
-    "name": "salem",
+    "name": "salem / SXV / VOSM",
+    "iata": "SXV",
+    "icao": "VOSM",
     "image": "",
     "dateofupdation": "",
     "link": "salemAirport"
   },
   {
     "id": 92,
-    "name": "satna",
+    "name": "satna / TNI / VEST",
+    "iata": "TNI",
+    "icao": "VEST",
     "image": "",
     "dateofupdation": "",
     "link": "satnaAirport"
   },
   {
     "id": 93,
-    "name": "shillong / barapani",
+    "name": "shillong / barapani / SHL / VEBI",
+    "iata": "SHL",
+    "icao": "VEBI",
     "image": "",
     "dateofupdation": "",
     "link": "shillongAirport"
   },
   {
     "id": 94,
-    "name": "shimla",
+    "name": "shimla / SLV / VISM",
+    "iata": "SLV",
+    "icao": "VISM",
     "image": "",
     "dateofupdation": "",
     "link": "shimlaAirport"
   },
   {
     "id": 95,
-    "name": "sholapur",
+    "name": "sholapur / SSE / VASL",
+    "iata": "SSE",
+    "icao": "VASL",
     "image": "",
     "dateofupdation": "",
     "link": "sholapurAirport"
   },
   {
     "id": 96,
-    "name": "shravasti",
+    "name": "shravasti / VSV / VISV",
+    "iata": "VSV",
+    "icao": "VISV",
     "image": "",
     "dateofupdation": "",
     "link": "shravastiAirport"
   },
   {
     "id": 97,
-    "name": "silchar",
+    "name": "silchar / IXS / VEKU",
+    "iata": "IXS",
+    "icao": "VEKU",
     "image": "",
     "dateofupdation": "",
     "link": "silcharAirport"
   },
   {
     "id": 98,
-    "name": "srinagar",
+    "name": "srinagar / SXR / VISR",
+    "iata": "SXR",
+    "icao": "VISR",
     "image": "",
     "dateofupdation": "",
     "link": "srinagarAirport"
   },
   {
     "id": 99,
-    "name": "surat",
+    "name": "surat / STV / VASU",
+    "iata": "STV",
+    "icao": "VASU",
     "image": "",
     "dateofupdation": "",
     "link": "suratAirport"
   },
   {
     "id": 100,
-    "name": "tezpur",
+    "name": "tezpur / TEZ / VETZ",
+    "iata": "TEZ",
+    "icao": "VETZ",
     "image": "",
     "dateofupdation": "",
     "link": "tezpurAirport"
   },
   {
     "id": 101,
-    "name": "tezu",
+    "name": "tezu / TEI / VETJ",
+    "iata": "TEI",
+    "icao": "VETJ",
     "image": "",
     "dateofupdation": "",
     "link": "tezuAirport"
   },
   {
     "id": 102,
-    "name": "tirupati",
+    "name": "tirupati / TIR / VOTP",
+    "iata": "TIR",
+    "icao": "VOTP",
     "image": "",
     "dateofupdation": "",
     "link": "tirupatiAirport"
   },
   {
     "id": 103,
-    "name": "trichy / tiruchirappalli ",
+    "name": "trichy / tiruchirappalli  / TRZ / VOTR",
+    "iata": "TRZ",
+    "icao": "VOTR",
     "image": "",
     "dateofupdation": "",
     "link": "trichyAirport"
   },
   {
     "id": 104,
-    "name": "tuticorin / thoothukudi",
+    "name": "tuticorin / thoothukudi / TCR / VOTK",
+    "iata": "TCR",
+    "icao": "VOTK",
     "image": "",
     "dateofupdation": "",
     "link": "tuticorinAirport"
   },
   {
     "id": 105,
-    "name": "udaipur",
+    "name": "udaipur / UDR / VAUD",
+    "iata": "UDR",
+    "icao": "VAUD",
     "image": "",
     "dateofupdation": "",
     "link": "udaipurAirport"
   },
   {
     "id": 106,
-    "name": "vadodara",
+    "name": "vadodara / BDQ / VABO",
+    "iata": "BDQ",
+    "icao": "VABO",
     "image": "",
     "dateofupdation": "",
     "link": "vadodaraAirport"
   },
   {
     "id": 107,
-    "name": "varanasi",
+    "name": "varanasi / VNS / VEBN",
+    "iata": "VNS",
+    "icao": "VEBN",
     "image": "",
     "dateofupdation": "",
     "link": "varanasiAirport"
   },
   {
     "id": 108,
-    "name": "vijayawada",
+    "name": "vijayawada / VGA / VOBZ",
+    "iata": "VGA",
+    "icao": "VOBZ",
     "image": "",
     "dateofupdation": "",
     "link": "vijayawadaAirport"
   },
   {
     "id": 109,
-    "name": "vishakapatnam / vizag",
+    "name": "vishakapatnam / vizag / VTZ / VOVZ",
+    "iata": "VTZ",
+    "icao": "VOVZ",
     "image": "",
     "dateofupdation": "",
     "link": "vishakapatnamAirport"
