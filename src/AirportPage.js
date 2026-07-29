@@ -239,7 +239,11 @@ const AirportPage = ({ airportName, canonicalUrl, description }) => {
                 <span className="badge bg-primary p-2">{d["Type of Airport"]}</span>
               )}
               {d["Watch Hour"] && (
-                <span className="badge bg-success p-2">
+                <span className="badge bg-success p-2" style={{
+      whiteSpace: "normal",
+      wordBreak: "break-word",
+      maxWidth: "100%",
+    }}>
                   Watch Hour: {d["Watch Hour"]}
                 </span>
               )}
